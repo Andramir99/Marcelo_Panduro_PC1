@@ -16,7 +16,7 @@
         <option value="PEN">Sol Peruano (PEN)</option>
     </select>
 
-    <label for="cantidadOrigen">Cantidad:</label>
+    <label for="cantidadOrigen">cantidad:</label>
     <input asp-for="Cantidad" type="number" step="0.01" required />
 
     <label for="monedaDestino">Moneda a recibir:</label>
@@ -36,25 +36,3 @@
     <h3>Resultado del Cambio:</h3>
     <p>Has cambiado @Model.Cantidad @Model.MonedaOrigen a <strong>@Model.Resultado @Model.MonedaDestino</strong></p>
 }
-
-<h4>Ingrese sus datos para generar la boleta:</h4>
-    <form method="post" asp-action="GenerarBoleta">
-        <input type="hidden" name="MonedaOrigen" value="@Model?.MonedaOrigen" />
-        <input type="hidden" name="MonedaDestino" value="@Model?.MonedaDestino" />
-        <input type="hidden" name="Cantidad" value="@Model?.Cantidad" />
-        <input type="hidden" name="Resultado" value="@Model?.Resultado" />
-
-        <label>Nombre Completo:</label>
-        <input type="text" name="Nombre" class="form-control" required />
-
-        <label>DNI o Pasaporte:</label>
-        <input type="text" name="Documento" class="form-control" required />
-
-        <label>Fecha de Nacimiento:</label>
-        <input type="date" name="FechaNacimiento" class="form-control" required />
-
-        <label>Correo Electrónico:</label>
-        <input type="email" name="Correo" class="form-control" required />
-
-        <button type="submit" class="btn btn-success">Generar Boleta</button>
-    </form>
