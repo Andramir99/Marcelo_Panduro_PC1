@@ -1,0 +1,97 @@
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\appsettings.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\P1-MARCELO PANDURO.staticwebassets.runtime.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\P1-MARCELO PANDURO.staticwebassets.endpoints.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\P1-MARCELO PANDURO.exe
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\P1-MARCELO PANDURO.deps.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\P1-MARCELO PANDURO.runtimeconfig.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\P1-MARCELO PANDURO.dll
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\bin\Debug\net9.0\P1-MARCELO PANDURO.pdb
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.AssemblyInfo.cs
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.RazorAssemblyInfo.cache
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.RazorAssemblyInfo.cs
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\scopedcss\bundle\P1-MARCELO PANDURO.styles.css
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\scopedcss\projectbundle\P1-MARCELO PANDURO.bundle.scp.css
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\m96hzrcos5-b9sayid5wm.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\oqz6zrf9j7-61n19gt1b8.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\k9g1qe9t2y-xtxxf3hu2r.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\gkwfp6x2s3-bqjiyaj88i.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\jy2nhsgsrq-c2jlpeoesf.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\8z1hjin4k6-erw9l3u2r3.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\c8vi8pa9pt-aexeepp0ev.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\mgy6yfknqx-d7shbmvgxk.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\cvno1xh0es-ausgxo2sd3.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\epyylxiff9-k8d9w2qqmf.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\u4n9gz8ox1-cosvhxvwiu.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\juba4f3fgc-ub07r2b239.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\bnwc4p7rhm-fvhpjtyr6v.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\ri4y3zt56l-b7pk76d08c.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\23ha2i0yxa-fsbi9cje9m.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\ncd271glyd-rzd6atqjts.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\cejdg1a42h-ee0r1s7dh0.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\8vb6gf9qru-dxx9fxp4il.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\qevxjjfv2o-jd9uben2k1.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\aljr1zhs6x-khv3u5hwcm.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\5dza7bh3tj-r4e9w2rdcm.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\piuz536lyf-lcd1t2u6c8.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\7xla7j5k9e-c2oey78nd0.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\poto6zgn8d-tdbxkamptv.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\6jzpkgsmlp-j5mq2jizvt.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\fu9vc4c5gt-06098lyss8.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\rf0tb8n6gd-nvvlpmu67g.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\1jmlimtxuf-s35ty4nyc5.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\to89ulcshn-pj5nd1wqec.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\4v0yc0hvc3-46ein0sx1k.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\jje8r0lbis-v0zj4ognzu.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\2glp7agtic-37tfw0ft22.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\p8wfolzf5s-hrwsygsryq.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\h74j7c7uj7-pk9g2wxc8p.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\l9z00iuq81-ft3s53vfgj.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\y9l070otzf-6cfz1n2cew.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\sqyo5vfaxf-6pdc2jztkx.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\3d65vxg6kf-493y06b0oq.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\1o64y93xbp-iovd86k7lj.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\5p4maifqo1-vr1egmr9el.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\jx1uneli0k-kbrnm935zg.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\qig69umt8h-jj8uyg4cgr.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\g9nfcfv09y-y7v9cxd14o.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\bgw3hmtjbx-notf2xhcfb.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\az9oaizc44-h1s4sie4z3.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\aszd5kx95f-63fj8s7r0e.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\w2d7jmshdh-0j3bgjxly4.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\dpzo8iuj4r-47otxtyo56.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\9ti5pkaaa9-4v8eqarkd7.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\hnf3mzcatm-356vix0kms.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\cnav6nhwvg-83jwlth58m.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\g791yjbjwc-mrlpezrjn3.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\0uo08bh4v1-lzl9nlhx6b.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\pm3jhxlfva-ag7o75518u.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\k7a6opbejy-x0q3zqp4vz.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\5qf4hzjlny-0i3buxo5is.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\7turmixus8-o1o13a6vjx.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\3ws377gdpq-ttgo8qnofa.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\la9jmzeznf-2z0ns9nrw6.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\ktwpcq58iz-muycvpuwrr.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\11c8hahtx5-87fc7y1x7t.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\soc2qdawbu-mlv21k5csn.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\4t36mxdggy-3fsr3mp21c.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\compressed\q1x811m2je-3fsr3mp21c.gz
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets\msbuild.P1-MARCELO PANDURO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets\msbuild.P1-MARCELO PANDURO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets\msbuild.build.P1-MARCELO PANDURO.props
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.P1-MARCELO PANDURO.props
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.P1-MARCELO PANDURO.props
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.dll
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\refint\P1-MARCELO PANDURO.dll
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.pdb
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.genruntimeconfig.cache
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\ref\P1-MARCELO PANDURO.dll
