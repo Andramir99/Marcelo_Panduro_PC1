@@ -95,3 +95,4 @@ C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\refint\P1-MARCELO
 C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.pdb
 C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.genruntimeconfig.cache
 C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\ref\P1-MARCELO PANDURO.dll
+C:\Users\marce\Desktop\PC1\P1-MARCELO PANDURO\obj\Debug\net9.0\P1-MARCELO PANDURO.sourcelink.json
